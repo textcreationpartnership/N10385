@@ -114,9 +114,10 @@
    <text xml:lang="eng">
       <body>
          <div type="document">
-            <pb facs="tcp:013163_0000_0F8FF9878C8523A0"/>
+            <pb facs="unknown:013163_0000_0F8FF9878C8523A0"/>
             <p>
-               <pb facs="tcp:013163_0001_0F8FF98AC8296E88" rendition="simple:additions"/>WE the Subscribers, inhabitants of the town of <gap reason="blank" extent="1 word">
+               <pb facs="unknown:013163_0001_0F8FF98AC8296E88"
+                   rendition="simple:additions"/>WE the Subscribers, inhabitants of the town of <gap reason="blank" extent="1 word">
                   <desc> _____ </desc>
                </gap> having taken into our serious consideration the precarious state of the liberties of North-America, and more <gap reason="illegible: blotted" extent="1 span">
                   <desc>〈…〉</desc>
